@@ -1,0 +1,2 @@
+# EconomyAPI
+ [CS:GO] EconomyAPI
